@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Diego Andres Rivero Fernandez**
 
 - GitHub: [@Diegoneitorex](https://github.com/Diegoneitorex)
-- Twitter: [@iegoneitorex](https://twitter.com/Diegoneitorex)
+- Twitter: [@Diegoneitorex](https://twitter.com/Diegoneitorex)
 
 ## 🤝 Contributing
 
